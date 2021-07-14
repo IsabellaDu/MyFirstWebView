@@ -1,0 +1,2 @@
+rootProject.name = "MyWebVIew"
+include ':app'
